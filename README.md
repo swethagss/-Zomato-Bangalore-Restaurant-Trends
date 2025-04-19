@@ -54,6 +54,10 @@ The dataset contains information about restaurants in Bangalore, including the f
 ### 2.Cuisine-Specific Map (Italian): 
 * The map reveals which neighborhoods in Bangalore have a high concentration of Italian restaurants. It helps identify regions with a preference for Italian cuisine.
 
+<img width="803" alt="Image" src="https://github.com/user-attachments/assets/8433089c-3ff5-4d48-afa4-6dc8fd921351" />
+
+<img width="808" alt="Image" src="https://github.com/user-attachments/assets/c92f0a45-c1d7-434a-b0c0-724fcc1c72c3" />
+
 ## Conclusions
 
 ### Restaurant Density: 
