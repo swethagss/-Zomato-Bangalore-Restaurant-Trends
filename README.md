@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project focuses on analyzing restaurant data from Bangalore and providing geospatial visualizations to understand restaurant density and cuisine-specific distribution. The dataset includes information about various restaurants, including their ratings, type, and location. The goal is to perform exploratory data analysis (EDA) and create interactive maps that highlight restaurant density and the popularity of specific cuisines such as Italian.
+This project focuses on analyzing restaurant data from Bangalore and providing geospatial visualizations to understand restaurant density and cuisine-specific distribution. The dataset includes information about various restaurants, including their ratings, type and location. The goal is to perform exploratory data analysis (EDA) and create interactive maps that highlight restaurant density and the popularity of specific cuisines such as Italian.
 
 ## **Key Tasks**
 1. **Restaurant Density Map**: 
